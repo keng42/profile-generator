@@ -1,0 +1,17 @@
+{
+  "name": "profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generator.js",
+  "scripts": {
+    "start": "npm run profile && npm run serve",
+    "serve": "node src/server.js",
+    "profile": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "uuid": "^8.3.1"
+  }
+}
