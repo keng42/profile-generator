@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		
+		<dict>
+			<key>FullScreen</key>
+			<true/>
+			<key>Icon</key>
+			<data>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</data>
+			<key>Label</key>
+			<string> WeRead </string>
+			<key>PayloadDisplayName</key>
+			<string>WeRead</string>
+			<key>PayloadIdentifier</key>
+			<string>com.keng42.iosprofile.770ea262-f546-4232-bf6a-31d7973ed371.1</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>770ea262-f546-4232-bf6a-31d7973ed371</string>
+			<key>PayloadVersion</key>
+			<real>1</real>
+			<key>Precomposed</key>
+			<true/>
+			<key>TargetApplicationBundleIdentifier</key>
+			<string>com.tencent.weread</string>
+			<key>URL</key>
+			<string> </string>
+    </dict>
+
+	</array>
+	<key>PayloadDescription</key>
+	<string>Created by iOS Icon Themer Profile Generator 0.1.0 on Nov 1, 2020 at 12:06:04</string>
+	<key>PayloadDisplayName</key>
+	<string>Clean icons - WeRead</string>
+	<key>PayloadIdentifier</key>
+	<string>com.keng42.iosprofile.44bbb356-b819-40fe-a8ed-035ec2c57a6e</string>
+	<key>PayloadOrganization</key>
+	<string>iOS Icon Themer</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>44bbb356-b819-40fe-a8ed-035ec2c57a6e</string>
+	<key>PayloadVersion</key>
+	<real>1</real>
+</dict>
+</plist>

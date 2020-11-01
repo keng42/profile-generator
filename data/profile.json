@@ -1,0 +1,69 @@
+{
+  "name": "Clean icons",
+
+  "items": [
+    {
+      "label": "Alipay",
+      "bundle": "com.alipay.iphoneclient",
+      "icon": "支付宝.png",
+      "url": "",
+      "fromAppStore": ""
+    },
+    {
+      "label": "Scan",
+      "bundle": "com.alipay.iphoneclient",
+      "icon": "扫一扫.png",
+      "url": "alipayqr://platformapi/startapp?saId=10000007",
+      "fromAppStore": ""
+    },
+    {
+      "label": "Pay",
+      "bundle": "com.alipay.iphoneclient",
+      "icon": "付款.png",
+      "url": "alipayqr://platformapi/startapp?saId=20000056",
+      "fromAppStore": ""
+    },
+    {
+      "label": "JD",
+      "bundle": "",
+      "icon": "京东.png",
+      "url": "",
+      "fromAppStore": "https://apps.apple.com/us/app/京东-只为热爱行动/id414245413"
+    },
+    {
+      "label": "Amap",
+      "bundle": "",
+      "icon": "高德.png",
+      "url": "",
+      "fromAppStore": "https://apps.apple.com/us/app/高德地图-精准地图-导航出行必备/id461703208"
+    },
+    {
+      "label": "Smzdm",
+      "bundle": "",
+      "icon": "什么值得买.png",
+      "url": "",
+      "fromAppStore": "https://apps.apple.com/cn/app/什么值得买-购物门户/id518213356"
+    },
+    {
+      "label": "Bilibili",
+      "bundle": "",
+      "icon": "哔哩哔哩.png",
+      "url": "",
+      "fromAppStore": "https://apps.apple.com/cn/app/哔哩哔哩-弹幕番剧直播高清视频/id736536022"
+    },
+    {
+      "label": "Zhihu",
+      "bundle": "",
+      "icon": "知乎.png",
+      "url": "",
+      "fromAppStore": "https://apps.apple.com/us/app/知乎-有问题-上知乎/id432274380"
+    },
+    {
+      "label": "Taobao",
+      "bundle": "",
+      "icon": "淘宝.png",
+      "url": "",
+      "fromAppStore": "https://apps.apple.com/cn/app/手机淘宝-淘到你说好/id387682726"
+    }
+  ]
+}
